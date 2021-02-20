@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    background-color: grey;
+    width: 500px;
+    align-items: center;
+    padding-left: 60px;
+}
+
+h2 {
+    padding-left: 0px;
+    background-color: yellow;
+    width: 359px;
+    margin-left: 80px;
+}
